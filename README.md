@@ -1,4 +1,4 @@
-Repositori ini merupakan tugas kuliah yang menjelaskan peran Embedding Layer dalam model Long Short-Term Memory (LSTM) untuk tugas-tugas Natural Language Processing (NLP). Proyek ini mencakup pemahaman konseptual, implementasi menggunakan Python dan TensorFlow/Keras, serta penjelasan kode melalui komentar yang mendetail.
+Repositori ini menjelaskan peran Embedding Layer dalam model Long Short-Term Memory (LSTM) untuk tugas-tugas Natural Language Processing (NLP). Proyek ini mencakup pemahaman konseptual, implementasi menggunakan Python dan TensorFlow/Keras, serta penjelasan kode melalui komentar yang mendetail.
 
 📌 Apa yang Dipelajari:
 
